@@ -1,2 +1,1 @@
-# MLX9039_Force
-Using Ted Yapo's Library
+# MLX9039_Project
